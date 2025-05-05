@@ -1,24 +1,20 @@
-# Hi there, I'm Akira Choi! 👋
+<h1 align="center">Hi there, I'm Ricky John Garciano Reusora 👋</h1>
+<p align="center">
+  <i>Knowledge is useless without Practice, but Practice without Knowledge is Dangerous</i>
+</p>
 
-Welcome to my GitHub profile! I'm a passionate software developer with a love for open-source contributions and continuous learning. Here you'll find a collection of my projects, contributions, and interests.
+---
 
-## 🌟 About Me
+## 💡 About Me
 
-- 🔭 I’m currently working on various web development projects.
-- 🌱 I’m constantly learning and exploring new technologies.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about web development, JavaScript, and Python.
-- 📫 How to reach me: [Email](mailto:akirachoi01@example.com)
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love hiking and photography!
+- 💻 I’m currently working on exciting web and Android development projects.
+- 🌱 I’m always learning and experimenting with new technologies.
+- 🤝 Looking to collaborate on open-source and real-world tech problems.
+- 🧠 Ask me about: `JavaScript`, `Python`, `Kotlin`, `APIs`, and `Android`.
+- 🔗 Website: [reusora.org](https://www.reusora.org)
+- 📍 UTC+12:00
 
-## 📈 GitHub Stats
-
-![Akira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akirachoi01&show_icons=true&theme=radical)
-
-## 🚀 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akirachoi01&layout=compact&theme=radical)
+---
 
 ## 🛠️ Technologies & Tools
 
@@ -29,15 +25,38 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
-## 📫 Get in Touch
+---
 
-- LinkedIn: [Akira Choi](https://www.linkedin.com/in/akirachoi01/)
-- Twitter: [@akirachoi01](https://twitter.com/akirachoi01)
-- Blog: [My Blog](https://myblog.example.com)
+## 📊 GitHub Stats
 
-## 📝 Latest Blog Posts
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akirachoi01&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akirachoi01&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akirachoi01&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📬 Get in Touch
+
+- 💼 LinkedIn: [Akira Choi](#) *(add your real link)*
+- 🐦 Twitter: [@akirachoi01](https://twitter.com/akirachoi01)
+- ✍️ Blog: [My Blog](#) *(add your blog URL)*
+
+---
+
+## 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a REST API with Node.js and Express](https://myblog.example.com/rest-api-nodejs-express)
-- [Understanding JavaScript Closures](https://myblog.example.com/javascript-closures)
- ▋
+- Coming soon!
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🧠 Fun Fact
+
+I love hiking 🥾, photography 📸, and building cool stuff for the open-source world!
+
+---
+
+_🔥 Let's build the future one commit at a time!_
