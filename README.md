@@ -11,9 +11,9 @@
 - 🌱 I’m always learning and experimenting with new technologies.
 - 🤝 Looking to collaborate on open-source and real-world tech problems.
 - 🧠 Ask me about: `JavaScript`, `Python`, `Kotlin`, `APIs`, and `Android`.
-- 🔗 Website: [reusora.org](https://www.reusora.org)
+- 🔗 Website: [https://reusora.org/SalidaPH.apk]https://reusora.org/SalidaPH.apk
 - 📍 UTC+12:00
-
+](https://reusora.org/SalidaPH.apk)
 ---
 
 ## 🛠️ Technologies & Tools
